@@ -3,7 +3,7 @@
  * This program creates Oval objects on-screen, either based upon user input, or
  * randomly as a set of circles.
  *
- * @author M. Allen
+ * @author twl
  */
 import java.awt.Color;
 import java.awt.event.*;
