@@ -4,6 +4,7 @@
  * randomly as a set of circles.
  *
  * @author twl
+ * @thing paopaogun
  */
 import java.awt.Color;
 import java.awt.event.*;
