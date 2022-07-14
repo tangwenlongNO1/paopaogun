@@ -1,5 +1,5 @@
-# paopaogun
-## 这是一个画泡泡糖的java小程序
+# **paopaogun**
+## This is a draw bubble gum Java small procedures!
 ### shapely shapes
 *****
 - Enter the values of <kbd>x</kbd>, <kbd>y</kbd>, <kbd>w</kbd>, <kbd>h</kbd> and click the add button to Add the ellipse.
