@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://F:/pythonProject/AdvSemiSeg/.idea/AdvSemiSeg.iml" filepath="F:/pythonProject/AdvSemiSeg/.idea/AdvSemiSeg.iml" />
       <module fileurl="file://$PROJECT_DIR$/paopaogun.iml" filepath="$PROJECT_DIR$/paopaogun.iml" />
     </modules>
   </component>
