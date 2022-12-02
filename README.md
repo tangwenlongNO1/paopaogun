@@ -1,4 +1,5 @@
 # **paopaogun**
+<img src="https://img.shields.io/github/languages/code-size/tangwenlongNO1/paopaogun"></img>
 ## This is a draw bubble gum Java small procedures!
 ### shapely shapes
 *****
