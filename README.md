@@ -1,7 +1,7 @@
 # paopaogun
 <img src="https://img.shields.io/github/languages/code-size/tangwenlongNO1/paopaogun"></img>
 ## This is a draw bubble gum Java small procedures!
-### shapely circles
+### Shapely Shapes
 *****
 - Enter the values of ``x``,  ``y``,  ``w``,  ``h``  and click the <kbd>Add</kbd> button to add the ellipse.
 - Click the <kbd>Rand</kbd> button to add a random ellipse.
